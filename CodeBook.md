@@ -10,7 +10,7 @@ output: html_document
 ## Data Source
 The data from the course project was collected from the accelerometers from the Samsung Galaxy S smartphone: [link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
 
-A full description is available at the site where the data was obtained:[line](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+A full description is available at the site where the data was obtained:[link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## Feature Selection
 
